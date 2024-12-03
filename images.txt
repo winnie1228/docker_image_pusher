@@ -6,4 +6,6 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 python:3.11.4-slim-bullseye
 python:3.14.0a2-slim-bullseye
+python:3.11.10
+
 
