@@ -7,5 +7,5 @@ xhofe/alist:latest
 python:3.11.4-slim-bullseye
 python:3.14.0a2-slim-bullseye
 python:3.11.10
-
+redis/redis-stack:latest
 
